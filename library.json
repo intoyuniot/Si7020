@@ -1,0 +1,17 @@
+{
+    "name": "Si7020",
+    "version": "1.0.0",
+    "keywords": "Si7020",
+    "description": "Silicon Labs si7020(温湿度传感器)驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/Si7020.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

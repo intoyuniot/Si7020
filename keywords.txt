@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+Si7020    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getRH  KEYWORD2
+readTemp  KEYWORD2
+getTemp  KEYWORD2
+heaterOn  KEYWORD2
+heaterOff  KEYWORD2
+changeResolution  KEYWORD2
+resetSettings  KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
